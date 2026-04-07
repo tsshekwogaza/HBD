@@ -5,8 +5,8 @@ const messageEl   = document.getElementById('message');
 
 
 // Optional: set these before sending
-let recipientName = 'Sir Ben';
-let senderName    = 'Timothy';
+let recipientName = 'Esteemed Brother Vincent!';
+let senderName    = 'Bro. Timothy';
 let customMessage = messageEl.textContent.trim();
 
 function applyText() {
