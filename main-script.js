@@ -5,7 +5,7 @@ const messageEl   = document.getElementById('message');
 
 
 // Optional: set these before sending
-let recipientName = 'Esteemed Brother Vincent!';
+let recipientName = 'Esteemed Brother Vincent';
 let senderName    = 'Bro. Timothy';
 let customMessage = messageEl.textContent.trim();
 
